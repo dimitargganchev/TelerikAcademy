@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\bin\Problem_3.Social_site.dll.config
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\bin\Problem_3.Social_site.dll
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\bin\Problem_3.Social_site.pdb
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\bin\Problem_3.Social_site.xml
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\obj\Debug\Problem_3.Social_site.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\obj\Debug\Problem 3. Social site.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\obj\Debug\Problem_3.Social_site.dll
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\obj\Debug\Problem_3.Social_site.xml
+C:\Users\Dimitar\Desktop\Projects\HTML Fundamentals\Problem 3. Social site\Problem 3. Social site\Problem 3. Social site\obj\Debug\Problem_3.Social_site.pdb

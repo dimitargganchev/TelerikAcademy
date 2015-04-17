@@ -1,0 +1,19 @@
+﻿table {
+    background-color:#0630b9;
+    border-collapse: collapse;
+}
+tr, td {
+    text-align:center;
+    border: 1px solid black;
+    padding: 3px;
+}
+button {
+    width:100%;
+    background:none;
+    border:0px;
+    padding:5px 15px 5px 15px;
+    color:#ffffff
+}
+input {
+    width:99%;
+}

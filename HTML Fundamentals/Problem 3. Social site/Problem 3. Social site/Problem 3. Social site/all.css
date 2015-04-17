@@ -1,0 +1,23 @@
+﻿body {
+    background-color:#8476ff;
+}
+#disc {
+    list-style-type:disc;
+}
+span {
+    font-weight:bold;
+}
+.italic {
+    font-style:italic;
+    margin:0px;
+}
+.margin {
+    margin:0px 0px 0px 40px;
+
+}
+#husky {
+    border-radius: 15px;
+    border:solid 1px black;
+    width:300px;
+    height:200px;
+}

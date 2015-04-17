@@ -1,0 +1,155 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Registration form</title>
+    <meta charset="utf-8" />
+    <link href="Registration form.css" rel="stylesheet" />
+</head>
+<body>
+    <header>
+        <h1>Registration form</h1>
+    </header>
+    <section>
+        <form name="Registration form" method="post">
+            <table>
+                <colgroup>
+                    <col width="50" />
+                </colgroup>
+                <thead>
+                    <tr>
+                        <th>
+                            Last Name
+                        </th>
+                        <td>
+                            <input type="text" class="name" name="Last" required />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            First Name
+                        </th>
+                        <td>
+                            <input type="text" class="name" name="First" required />
+                        </td>
+                    </tr>
+                </thead>
+                <tfoot>
+                    <tr>
+                        <td colspan="2" id="button">
+                            <button type="submit" value="Apply now">Submit</button>
+                            <button type="reset" value="rest">Clean This Form</button>
+                        </td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr>
+                        <th>
+                            Address
+                        </th>
+                        <td>
+                            <textarea name="Address" id="address"></textarea>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            City
+                        </th>
+                        <td>
+                            <input type="text" name="city" id="city" required />
+                            State
+                            <input type="text" required id="texct" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Zip/Postal Code
+                        </th>
+                        <td>
+                            <input type="text" name="zip" required id="zip" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            County
+                        </th>
+                        <td>
+                            <select name="country" required id="country">
+                                <option value="value1" selected="selected">
+                                    Bulgaria
+                                </option>
+                                <option value="value2">
+                                    US
+                                </option>
+                                <option value="value3">
+                                    UK
+                                </option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th id="phone">
+                            Phone(contry codeq,area codeq,number)
+                        </th>
+                        <td>
+                            (+<input type="tel" required pattern="\+[0-9]{3}\" id="fistnum" />)
+                            <input type="tel" required pattern="[0-9]{3}\-[0-9]{2}\" id="secnum" />
+                            <input type="tel" required pattern="[0-9]{2}\-[0-9]{2}" id="thirdnum" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            E-mail
+                        </th>
+                        <td>
+                            <input type="email" name="e-mail" required pattern="[a-zA-Z0-9_]{3,}@[a-zA-Z0-9_]{3,}.[a-zA-Z0-9_]{2,4}" placeholder="sample@email.com" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Birth dare
+                        </th>
+                        <td>
+                            <input type="date" id="date" name="Birth dare" required placeholder="дд.мм.гггг г." />
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Gender
+                        </th>
+                        <td>
+                            <select>
+                                <option value="value1" selected="selected">
+                                    Male
+                                </option>
+                                <option value="value2" selected="selected">
+                                    Female
+                                </option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Starting date
+                        </th>
+                        <td>
+                            <input type="radio" name="date" value="Spring 2015" />Spring 2015
+                            <input type="radio" name="date" value="Summer 2015" />Summer 2015
+                        </td>
+                    </tr>
+                    <tr>
+                        <th>
+                            Comments/Questions
+                        </th>
+                        <td>
+                            <textarea name="comments" id="comments"></textarea>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </form>
+    </section>
+    <footer>
+
+    </footer>
+</body>
+</html>

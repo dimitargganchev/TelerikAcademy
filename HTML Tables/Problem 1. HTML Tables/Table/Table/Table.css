@@ -1,0 +1,13 @@
+﻿table, tr, td {
+   border: 1px solid black;
+   text-align:center;
+}
+#left {
+    text-align:left;
+}
+.right {
+    text-align:right;
+}
+#downleft {
+    vertical-align:bottom;
+}
