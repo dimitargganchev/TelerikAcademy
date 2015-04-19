@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\bin\Student System.dll.config
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\bin\Student System.dll
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\bin\Student System.pdb
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\bin\Student System.xml
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\obj\Debug\Student_System.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\obj\Debug\Student System.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\obj\Debug\Student System.dll
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\obj\Debug\Student System.xml
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 2. Student System\Student System\obj\Debug\Student System.pdb

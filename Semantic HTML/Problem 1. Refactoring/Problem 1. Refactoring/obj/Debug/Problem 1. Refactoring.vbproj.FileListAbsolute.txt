@@ -1,0 +1,18 @@
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.dll.config
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.dll
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.pdb
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.xml
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem 1. Refactoring.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.dll
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.xml
+C:\Users\Dimitar\Desktop\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.pdb
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.dll.config
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.dll
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.pdb
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\bin\Problem_1.Refactoring.xml
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.Resources.resources
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem 1. Refactoring.vbproj.GenerateResource.Cache
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.dll
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.xml
+D:\HTML5\Projects\Semantic HTML\Problem 1. Refactoring\Problem 1. Refactoring\obj\Debug\Problem_1.Refactoring.pdb

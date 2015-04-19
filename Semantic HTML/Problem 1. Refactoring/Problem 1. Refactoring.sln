@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Problem 1. Refactoring", "Problem 1. Refactoring\Problem 1. Refactoring.vbproj", "{AB0FE43F-D5D8-4147-A381-CAF6BDC76BEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB0FE43F-D5D8-4147-A381-CAF6BDC76BEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB0FE43F-D5D8-4147-A381-CAF6BDC76BEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB0FE43F-D5D8-4147-A381-CAF6BDC76BEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB0FE43F-D5D8-4147-A381-CAF6BDC76BEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
