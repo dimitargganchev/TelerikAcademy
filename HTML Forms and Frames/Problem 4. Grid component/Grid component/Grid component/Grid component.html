@@ -8,129 +8,197 @@
 <body>
     <header></header>
     <section>
-        <table> 
-            <thead>
-                <tr>
-                    <td colspan="6">Drag a column header and drop it here to group by that colum</td>
-                </tr>
-                <tr>
-                    <td>ProductID</td>
-                    <td>Product name</td>
-                    <td>Unit price</td>
-                    <td>Quantity per unit</td>
-                    <td>Units in stock</td>
-                    <td>Discontinued</td>
-                </tr>
-            </thead>
-            <tr>
-                <td><input type="text" /></td>
-                <td><input type="text" /></td>
-                <td>
-                    <input type="text" />
-                    <button type="button"><img src="./pic/filter.png" alt="Alternate Text" /></button>
-                </td>
-                <td><input type="text" /></td>
-                <td>
-                    <input type="text" />
-                    <button type="button"><img src="./pic/filter.png" alt="Alternate Text" /></button>
-                </td>
-                <td>
-                    <input type="checkbox" />
-                    <button type="button"><img src="./pic/filter.png" alt="Alternate Text" /></button>
-                </td>
-            </tr>
-            <tfoot>
-                <tr>
-                    <td colspan="2"></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td colspan="2"></td>
-                </tr>
-            </tfoot>
-            <tbody>
-                <tr>
-                    <td>1</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>2</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>3</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>4</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>5</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>6</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>7</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>8</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>9</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-                <tr>
-                    <td>10</td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                    <td></td>
-                </tr>
-            </tbody>
-        </table>
+        <div>
+            <table>
+                <colgroup>
+                    <col width="100" />
+                </colgroup>
+                <thead>
+                    <tr class="headtext">
+                        <td colspan="6">Drag a column header and drop it here to group by that colum</td>
+                    </tr>
+                    <tr class="gradient">
+                        <td>ProductID</td>
+                        <td>Product name</td>
+                        <td>Unit price</td>
+                        <td>Quantity per unit</td>
+                        <td>Units in stock</td>
+                        <td>Discontinued</td>
+                    </tr>
+                    <tr class="headtext">
+                        <td><input type="text" id="first" /></td>
+                        <td><input type="text" id="fourth" /></td>
+                        <td>
+                            <input type="text" class="second" />
+                            <button type="button"><img src="./pic/filter.png" alt="Alternate Text" /></button>
+                        </td>
+                        <td><input type="text" id="third" /></td>
+                        <td>
+                            <input type="text" class="second" />
+                            <button type="button"><img src="./pic/filter.png" alt="Alternate Text" /></button>
+                        </td>
+                        <td>
+                            <input type="checkbox" id="shadow" />
+                            <button type="button"><img src="./pic/filter.png" alt="Alternate Text" /></button>
+                        </td>
+                    </tr>
+                </thead>
+                <tfoot class="gradient">
+                    <tr id="nonline">
+                        <td colspan="2">
+                            <div id="footerdivfirst">
+                                <button type="button" class="arrow">
+                                    <img src="./pic/double-arrow-left.png" alt="double arrow left" />
+                                </button>
+                                <button type="button" class="arrow">
+                                    <img src="./pic/arrow-back.png" alt="double arrow left" />
+                                </button>
+                                <button type="button" id="pageone" value="1">1</button>
+                                <button type="button" class="page" value="2">2</button>
+                                <button type="button" class="page" value="3">3</button>
+                                <button type="button" class="page" value="4">4</button>
+                                <button type="button" class="page" value="5">5</button>
+                                <button type="button" class="page" value="6">6</button>
+                                <button type="button" class="page" value="7">7</button>
+                                <button type="button" class="page" value="8">8</button>
+                                <button type="button" class="page" value="9">9</button>
+                                <button type="button" class="page" value="10">10</button>
+                                <button type="button" class="page" value="...">...</button>
+                                <button type="button" class="arrow">
+                                    <img src="./pic/arrow-forward.png" alt="double arrow left" />
+                                </button>
+                                <button type="button" class="arrow">
+                                    <img src="./pic/double-arrow-right.png" alt="double arrow left" />
+                                </button>
+                            </div>
+                        </td>
+                        <td>
+                            <div id="footerdivsecond">
+                                Page size:
+                                <select>
+                                    <option value="1">1</option>
+                                    <option value="2">2</option>
+                                    <option value="3">3</option>
+                                    <option value="4">4</option>
+                                    <option value="5">5</option>
+                                    <option value="6">6</option>
+                                    <option value="7">7</option>
+                                    <option value="8">8</option>
+                                    <option value="9">9</option>
+                                    <option value="10" selected="selected">10</option>
+                                </select>
+                            </div>
+                        </td>
+                        <td></td>
+                        <td colspan="2" id="textright">
+                            <div id="footerdivthird">335104 items in 33511 pages</div>
+                        </td>
+                    </tr>
+                </tfoot>
+                <tbody>
+                    <tr>
+                        <td>1</td>
+                        <td>Chai</td>
+                        <td>$18.00</td>
+                        <td>10 boxes x 20 bags</td>
+                        <td>39</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>2</td>
+                        <td>Chang</td>
+                        <td>$19.00</td>
+                        <td>24 - 12 oz bottles</td>
+                        <td>17</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>3</td>
+                        <td>Aniseed Syrup</td>
+                        <td>$10.00</td>
+                        <td>12 - 550 ml bottles</td>
+                        <td>13</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>4</td>
+                        <td>Chef Anton`s Cajun Seasoning</td>
+                        <td>$22.00</td>
+                        <td>48 - 6 oz jars</td>
+                        <td>53</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>5</td>
+                        <td>Chef Anton`s Gumbo Mix</td>
+                        <td>$21.35</td>
+                        <td>36 boxs</td>
+                        <td>0</td>
+                        <td>
+                            <input type="checkbox" checked />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>6</td>
+                        <td>Grandma`s Boysenberry Spread</td>
+                        <td>$25.00</td>
+                        <td>12- 8 -oz jars</td>
+                        <td>120</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>7</td>
+                        <td>Uncle Bob`s Organic Dried Pears</td>
+                        <td>$30.00</td>
+                        <td>12 - 1 lb pkgs.</td>
+                        <td>15</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>8</td>
+                        <td>Nortwoods Cranberry Sauce</td>
+                        <td>$40.00</td>
+                        <td>12 - 12 oz jars</td>
+                        <td>6</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>9</td>
+                        <td>Mishi Kobe Niku</td>
+                        <td>$97.00</td>
+                        <td>18 - 500 g pkgs.</td>
+                        <td>29</td>
+                        <td>
+                            <input type="checkbox" checked />
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>10</td>
+                        <td>Ikura</td>
+                        <td>$31.00</td>
+                        <td>12- 200 ml jars</td>
+                        <td>31</td>
+                        <td>
+                            <input type="checkbox" />
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
     </section>
     <footer></footer>
 </body>

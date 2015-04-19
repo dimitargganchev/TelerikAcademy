@@ -7,3 +7,12 @@ C:\Users\Dimitar\Desktop\Projects\HTML Forms and Frames\Problem 3. Notebook stor
 C:\Users\Dimitar\Desktop\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook store.dll
 C:\Users\Dimitar\Desktop\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook store.xml
 C:\Users\Dimitar\Desktop\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook store.pdb
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\bin\Notebook store.dll.config
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\bin\Notebook store.dll
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\bin\Notebook store.pdb
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\bin\Notebook store.xml
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook_store.Resources.resources
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook store.vbproj.GenerateResource.Cache
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook store.dll
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook store.xml
+D:\HTML5\Projects\HTML Forms and Frames\Problem 3. Notebook store\Notebook store\Notebook store\obj\Debug\Notebook store.pdb

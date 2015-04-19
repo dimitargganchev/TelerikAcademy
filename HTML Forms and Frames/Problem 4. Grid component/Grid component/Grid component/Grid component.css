@@ -1,1 +1,118 @@
-﻿
+﻿img {
+    width:10px;
+    height:10px;
+}
+
+div {
+    border: 1px solid #8fb0ff; 
+    border-radius: 6px;
+    overflow: hidden;
+    display:inline-block;
+    width:100%;
+}
+
+table {
+    font-family:Segoe UI, 'Tahoma', Geneva, Verdana, sans-serif;
+    width:100%;
+    border-collapse: collapse;
+}
+
+tbody td {
+    border: 1px solid #8fb0ff;
+    border-left:0px; 
+    padding: 3px;
+}
+
+thead td {
+    border: 1px solid #8fb0ff; 
+    padding: 3px; 
+    border-right:0px;
+    border-top:0px;
+}
+
+.nonline {
+    border:1px 0px 1px 0px;
+}
+
+#pageone {
+    width:15px;
+    height:20px;
+    padding:0px;
+    background:none;
+    border:1px solid #ff6a00;
+    border-radius:5px;
+}
+
+.page {
+    background:none;
+    border:0px;
+    width:15px;
+    height:20px;
+    border-radius:5px;
+    padding:0px;
+}
+
+.arrow {
+    height:20px;
+    width:20px;
+    padding:0px;
+}
+
+#textright {
+    text-align:right;
+    padding:0px 10px 0px 0px;
+}
+
+.headtext {
+    background-color:rgba(143, 176, 255, 0.72);
+}
+
+.gradient {
+    background: -webkit-linear-gradient(#ffffff, #8fb0ff);
+    background: -o-linear-gradient(#ffffff, #8fb0ff);
+    background: -moz-linear-gradient(#ffffff, #8fb0ff);
+    background: linear-gradient(#ffffff, #8fb0ff);
+}
+
+#shadow {
+    box-shadow:2px inset;
+}
+
+#first{
+    width:30px;
+    margin: 0px 0px 4px 5px;
+}
+
+.second {
+    margin: 0px 0px 4px 5px;
+    width:90px;
+}
+
+#third {
+    margin: 0px 0px 4px 5px;
+    width:120px;
+}
+
+#fourth {
+    margin: 0px 0px 4px 5px;
+}
+
+#nonline {
+    border:0px;
+}
+
+#footerdivfirst {
+    border:0px;
+    margin:5px 0px 5px 10px;
+}
+
+#footerdivsecond {
+    border:0px;
+    margin:5px 0px 5px 0px;
+}
+
+#footerdivthird {
+    border:0px;
+    margin:5px 10px 5px 0px;
+    text-align:right;
+}
