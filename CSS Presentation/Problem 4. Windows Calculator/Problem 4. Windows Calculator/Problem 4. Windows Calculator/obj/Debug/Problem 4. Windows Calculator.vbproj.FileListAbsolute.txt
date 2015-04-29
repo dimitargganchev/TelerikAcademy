@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\bin\Problem_4.Windows_Calculator.dll.config
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\bin\Problem_4.Windows_Calculator.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\bin\Problem_4.Windows_Calculator.pdb
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\bin\Problem_4.Windows_Calculator.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\obj\Debug\Problem_4.Windows_Calculator.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\obj\Debug\Problem 4. Windows Calculator.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\obj\Debug\Problem_4.Windows_Calculator.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\obj\Debug\Problem_4.Windows_Calculator.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 4. Windows Calculator\Problem 4. Windows Calculator\Problem 4. Windows Calculator\obj\Debug\Problem_4.Windows_Calculator.pdb

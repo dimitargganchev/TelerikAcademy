@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\bin\Ticket CSS.dll.config
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\bin\Ticket CSS.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\bin\Ticket CSS.pdb
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\bin\Ticket CSS.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\obj\Debug\Ticket_CSS.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\obj\Debug\Ticket CSS.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\obj\Debug\Ticket CSS.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\obj\Debug\Ticket CSS.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Overview\Problem 1. Ticket CSS\Ticket CSS\Ticket CSS\obj\Debug\Ticket CSS.pdb

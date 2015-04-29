@@ -1,0 +1,19 @@
+﻿p, h1 {
+    color:#0094ff;
+    font-family:Consolas;
+    font-size:20px;
+    text-align:justify;
+}
+
+h1 {
+    margin:13.400px 0 0 0;
+}
+
+p {
+    margin:0 0 13.400px 0;
+}
+
+span {
+    font-family:'Edwardian Script ITC';
+    font-size:50px;
+}

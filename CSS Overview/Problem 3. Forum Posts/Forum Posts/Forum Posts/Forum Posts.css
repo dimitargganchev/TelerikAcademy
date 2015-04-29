@@ -1,0 +1,38 @@
+﻿body {
+    background-color:#7d03a7;
+}
+
+#header, #main-footer, nav {
+    text-align:center;
+}
+
+#main-footer {
+    color:aliceblue;
+}
+
+h1, a {
+    color:#f8de77;
+}
+
+li {
+   text-decoration:none;
+   list-style:none;
+   font-weight:bold;
+}
+
+a {
+    text-decoration:none;
+}
+
+a:hover {
+    background-color:red;
+}
+
+.name {
+    color:aliceblue;
+}
+
+p {
+    text-align:justify;
+    color:aliceblue;
+}

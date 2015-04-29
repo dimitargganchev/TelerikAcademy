@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\bin\Problem_3.Nested_Divs.dll.config
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\bin\Problem_3.Nested_Divs.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\bin\Problem_3.Nested_Divs.pdb
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\bin\Problem_3.Nested_Divs.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\obj\Debug\Problem_3.Nested_Divs.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\obj\Debug\Problem 3. Nested Divs.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\obj\Debug\Problem_3.Nested_Divs.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\obj\Debug\Problem_3.Nested_Divs.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Presentation\Problem 3. Nested Divs\Problem 3. Nested Divs\Problem 3. Nested Divs\obj\Debug\Problem_3.Nested_Divs.pdb

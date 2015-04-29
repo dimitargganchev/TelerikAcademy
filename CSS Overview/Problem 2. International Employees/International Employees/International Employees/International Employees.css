@@ -1,0 +1,32 @@
+﻿table {
+    border-collapse:collapse;
+}
+
+table, tr, td {
+    border:1px solid black;
+}
+
+thead tr td {
+    color:white;
+}
+
+tbody tr td {
+    color:black;
+}
+
+img {
+    vertical-align:middle;
+    width:20px;
+    height:20px;
+}
+
+#main-tr {
+    background-color:#27a0f1;
+}
+
+.first-tr {
+    background-color:rgb(191, 226, 248);
+}
+.second-tr {
+    background-color:#86fbbf;
+}

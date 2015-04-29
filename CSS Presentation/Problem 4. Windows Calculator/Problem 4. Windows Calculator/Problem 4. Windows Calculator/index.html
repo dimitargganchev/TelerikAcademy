@@ -1,0 +1,281 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Windows Calculator</title>
+    <link href="Windows Calculator.css" rel="stylesheet" />
+    <meta charset="utf-8" />
+</head>
+<body>
+    <header></header>
+    <main>
+        <div id="main-div">
+            <div id="left-side">
+                <img src="pic/calculator.png" id="img-calculator" />
+                <p>
+                    Calculator
+                </p>
+            </div>
+            <div id="main-bt">
+                <table cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td>
+                            <div id="radius-first">
+                                <button type="button" id="bt-mini">
+                                    <img src="pic/minimize.png" />
+                                </button>
+                            </div>
+                        </td>
+                        <td>
+                            <div id="non-radius">
+                                <button type="button" id="bt-rest">
+                                    <img src="pic/restore.png" />
+                                </button>
+                            </div>
+                        </td>
+                        <td>
+                            <div id="radius-second">
+                                <button type="button" id="bt-close">
+                                    <img src="pic/close.png" />
+                                </button>
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div id="secondary-div">
+                <div id="menu">
+                    <button type="button" class="menu-bt"><span>V</span>iew</button>
+                    <button type="button" class="menu-bt"><span>E</span>dit</button>
+                    <button type="button" class="menu-bt"><span>H</span>elp</button>
+                </div>
+                <input type="text" id="result" value="0" />
+                <table id="count-system">
+                    <tr>
+                        <td class="left-td-system">0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td class="left-td-system">0000</td>
+                        <td>0000</td>
+                        <td>0000</td>
+                        <td class="right-td-system">0000</td>
+                    </tr>
+                    <tr>
+                        <td class="left-td-system dffr-font">63</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td class="left-td-system dffr-font">47</td>
+                        <td></td>
+                        <td></td>
+                        <td class="right-td-system dffr-font">32</td>
+                    </tr>
+                    <tr>
+                        <td class="left-td-system">0000</td>
+                        <td>0000</td>
+                        <td>1000</td>
+                        <td>0111</td>
+                        <td class="left-td-system">0001</td>
+                        <td>1011</td>
+                        <td>1011</td>
+                        <td class="right-td-system">0111</td>
+                    </tr>
+                    <tr>
+                        <td class="left-td-system dffr-font">31</td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td class="left-td-system dffr-font">15</td>
+                        <td></td>
+                        <td></td>
+                        <td class="right-td-system dffr-font">0</td>
+                    </tr>
+                </table>
+                <div id="float">
+                    <div class="choice">
+                        <div class="option">
+                            <input type="radio" name="option" />Hex
+                        </div>
+                        <div class="option">
+                            <input type="radio" name="option" checked="checked" />Dec
+                        </div>
+                        <div class="option">
+                            <input type="radio" name="option" />Oct
+                        </div>
+                        <div class="option">
+                            <input type="radio" name="option" />Bin
+                        </div>
+                    </div>
+                    <div class="choice">
+                        <div class="option">
+                            <input type="radio" name="option-second" checked="checked" />Quword
+                        </div>
+                        <div class="option">
+                            <input type="radio" name="option-second"  />Dword
+                        </div>
+                        <div class="option">
+                            <input type="radio" name="option-second" />Woed
+                        </div>
+                        <div class="option">
+                            <input type="radio" name="option-second" />Byte
+                        </div>
+                    </div>
+                </div>
+                <table id="calculator-button" cellspacing="5" cellpadding="0">
+                    <tr class="last-tr">
+                        <td class="last-td">
+                            <button class="last-button inactuve"></button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">Mod</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">A</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inact-act">MC</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inact-act">MR</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inact-act">MS</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inact-act">M+</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inact-act">M-</button>
+                        </td>
+                    </tr>
+                    <tr class="last-tr">
+                        <td class="last-td">
+                            <button class="last-button">(</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">)</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">B</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">&#8592;</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">CE</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">C</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">±</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">√</button>
+                        </td>
+                    </tr>
+                    <tr class="last-tr">
+                        <td class="last-td">
+                            <button class="last-button">Rol</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">RoR</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">C</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">7</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">8</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">9</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">/</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">%</button>
+                        </td>
+                    </tr>
+                    <tr class="last-tr">
+                        <td class="last-td">
+                            <button class="last-button">Or</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">Xor</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">D</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">4</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">5</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">6</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">*</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">1/x</button>
+                        </td>
+                    </tr>
+                    <tr class="last-tr">
+                        <td class="last-td">
+                            <button class="last-button">Lsh</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">Rsh</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">E</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">1</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">2</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">3</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">-</button>
+                        </td>
+                        <td class="last-td" rowspan="2">
+                            <button class="last-button">=</button>
+                        </td>
+                    </tr>
+                    <tr class="last-tr">
+                        <td class="last-td">
+                            <button class="last-button">Not</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">And</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">F</button>
+                        </td>
+                        <td class="last-td" colspan="2">
+                            <button class="last-button">0</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button inactuve">.</button>
+                        </td>
+                        <td class="last-td">
+                            <button class="last-button">+</button>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </main>
+    <footer></footer>
+</body>
+</html>
