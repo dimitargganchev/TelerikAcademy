@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\bin\Problem_2.Music_Categories.dll.config
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\bin\Problem_2.Music_Categories.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\bin\Problem_2.Music_Categories.pdb
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\bin\Problem_2.Music_Categories.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\obj\Debug\Problem_2.Music_Categories.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\obj\Debug\Problem 2. Music Categories.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\obj\Debug\Problem_2.Music_Categories.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\obj\Debug\Problem_2.Music_Categories.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 2. Music Categories\Problem 2. Music Categories\obj\Debug\Problem_2.Music_Categories.pdb

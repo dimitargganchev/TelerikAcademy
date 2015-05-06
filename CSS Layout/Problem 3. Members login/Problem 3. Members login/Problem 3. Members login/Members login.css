@@ -1,0 +1,69 @@
+﻿#div-main {
+	background-image: -o-linear-gradient(bottom, rgb(117, 117, 117) 0, rgb(15, 15, 15) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(117, 117, 117) 0, rgb(15, 15, 15) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(117, 117, 117) 0, rgb(15, 15, 15) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(117, 117, 117) 0, rgb(15, 15, 15) 100%);
+    background-image: linear-gradient(to bottom, rgb(117, 117, 117) 0, rgb(15, 15, 15) 100%);
+	width: 640px;
+	height: 300px;
+	border-radius: 10px;
+}
+
+img {
+	width: 40px;
+	height: 40px;
+	vertical-align: middle;
+}
+
+#space {
+	padding: 10px 0 0 20px;
+}
+
+label {
+	color: #ffffff;
+	font-size: 20px;
+}
+
+button {
+	border: 1px solid white;
+	border-radius: 10px;
+	width: 60px;
+	height: 30px;
+	background: #ffd8d8; 
+	background: -moz-linear-gradient(top, #ffd8d8 0, #ff7f7f 32%, #ff0c0c 50%, #ff5e5e 79%, #ff9393 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0,#ffd8d8), color-stop(32%,#ff7f7f), color-stop(50%,#ff0c0c), color-stop(79%,#ff5e5e), color-stop(100%,#ff9393));
+    background: -webkit-linear-gradient(top, #ffd8d8 0,#ff7f7f 32%,#ff0c0c 50%,#ff5e5e 79%,#ff9393 100%);
+	background: -o-linear-gradient(top, #ffd8d8 0,#ff7f7f 32%,#ff0c0c 50%,#ff5e5e 79%,#ff9393 100%);
+    background: -ms-linear-gradient(top, #ffd8d8 0,#ff7f7f 32%,#ff0c0c 50%,#ff5e5e 79%,#ff9393 100%); 
+	background: linear-gradient(to bottom, #ffd8d8 0,#ff7f7f 32%,#ff0c0c 50%,#ff5e5e 79%,#ff9393 100%);  
+	margin-left: 10px;
+}
+
+#first-div {
+	background-image: -o-linear-gradient(bottom, rgb(140, 140, 140) 0, rgb(0, 0, 0) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(140, 140, 140) 0, rgb(0, 0, 0) 100%);
+    background-image: -webkit-linear-gradient(bottom, rgb(140, 140, 140) 0, rgb(0, 0, 0) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(140, 140, 140) 0, rgb(0, 0, 0) 100%);
+    background-image: linear-gradient(to bottom, rgb(140, 140, 140) 0, rgb(0, 0, 0) 100%);
+    height: 60px;
+    border-radius: 10px 10px 0 0;
+}
+
+h1 {
+	color: yellow;
+	font-weight: normal;
+	padding: 0 10px 0 20px;
+}
+
+p {
+	color: rgb(178, 178, 178);
+	
+	text-align: justify;
+	width: 600px;
+	padding: 0 0 0 20px;
+}
+
+strong {
+	color: white;
+	font-weight: normal;
+}

@@ -1,0 +1,64 @@
+﻿#wrapper {
+    width:100%;
+    height:600px;
+	background-color: rgb(0, 76, 26);
+    border-radius:15px;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+nav ul {
+    list-style:none;
+}
+
+nav li {
+    width:120px;
+    height:20px;
+    margin:5px 0 0 5px;
+    padding:5px;
+    display:inline-block;
+    text-align:center;
+	background-color: rgb(183, 183, 183);
+    float:left;
+}
+
+nav li:hover a, nav li:hover, #visited, #visited a {
+	background-color: rgb(0, 76, 26);
+    color: white;
+}
+
+main a {
+    display:inline-block;
+    width:550px;
+    text-align:justify;
+    margin:0 0 0 10px;
+    color: white;
+}
+
+div.hover#first-div {
+    margin-top:20px;
+}
+
+#main-nav {
+    width:595px;
+}
+
+#main-nav, #video-div {
+    float:left;
+}
+
+.hover:hover, div#selected {
+	background-color: rgb(183, 183, 183);
+}
+
+div.hover:hover a, div#selected a {
+	color: black;
+}
+
+video {
+	width: 650px;
+	height: 400px;
+}

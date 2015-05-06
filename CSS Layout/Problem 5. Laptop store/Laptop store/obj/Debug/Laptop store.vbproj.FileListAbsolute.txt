@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\bin\Laptop store.dll.config
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\bin\Laptop store.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\bin\Laptop store.pdb
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\bin\Laptop store.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\obj\Debug\Laptop_store.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\obj\Debug\Laptop store.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\obj\Debug\Laptop store.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\obj\Debug\Laptop store.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 5. Laptop store\Laptop store\obj\Debug\Laptop store.pdb

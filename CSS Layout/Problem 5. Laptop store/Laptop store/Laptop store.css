@@ -1,0 +1,77 @@
+﻿#basic {
+    border:2px solid black;
+    border-radius:15px;
+    width:700px;
+    height:660px;
+}
+
+nav {
+    text-align:center;
+    margin:10px 0 10px 0;
+}
+
+hr {
+    width:650px;
+}
+
+fieldset {
+    width:210px;
+    padding:0;
+    border:2px solid black;
+}
+
+legend {
+    text-align:center;
+    padding:0;
+    margin:0;
+}
+
+img {
+    width:120px;
+    height:120px;
+    float:left;
+}
+
+nav, p, legend {
+    font-size:larger;
+}
+
+.floatleftfirst {
+    padding:10px 10px 10px 10px;
+    width:80px;
+    margin:0;
+    float:left;
+}
+
+.floatleftsecond {
+    margin:0;
+    padding:10px 0 0 0;
+    float:left;
+    width:100px;
+}
+
+#border-section {
+    border:2px solid black;
+    float:left;
+    margin:0 0 0 10px;
+}
+
+aside {
+    margin:0 0 0 500px;
+    padding-top:110px;
+    width:200px;
+    height:380px;
+
+}
+
+#left-div, #right-div {
+    float:left;
+}
+
+#right-div {
+    padding:10px;
+}
+
+#left-div {
+    padding:10px 0 10px 10px;
+}

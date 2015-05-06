@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\bin\News site.dll.config
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\bin\News site.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\bin\News site.pdb
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\bin\News site.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\obj\Debug\News_site.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\obj\Debug\News site.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\obj\Debug\News site.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\obj\Debug\News site.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\CSS Layout\Problem 6. News site\News site\News site\obj\Debug\News site.pdb

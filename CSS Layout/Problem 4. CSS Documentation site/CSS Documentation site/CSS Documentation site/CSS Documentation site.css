@@ -1,0 +1,197 @@
+﻿body, nav, main, aside, h1, p, div, button, a {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #d0d0d0;
+}
+
+    body > header, main, aside, button p, #img-css {
+        float: left;
+    }
+
+main {
+    background-color: #ffffff;
+    border: 1px solid #5c5b5b;
+    width: 900px;
+    height: 750px;
+    margin: 5px 0 0 10px;
+}
+
+header > div {
+    margin-bottom:50px;
+}
+
+nav a, a {
+    text-decoration: none;
+    color: black;
+    width: 77px;
+    height: 17px;
+}
+
+nav li {
+    list-style-type: none;
+}
+
+nav h1 {
+    color: #a30707;
+    font-size: large;
+    margin: 10px 0 5px 0;
+}
+
+nav ul, #img-css {
+    margin: 0;
+    padding-left: 10px;
+}
+
+header img {
+    width: 20px;
+    height: 20px;
+    vertical-align: text-bottom;
+    float: left;
+    margin: 13px 0 0 10px;
+}
+
+#home-page {
+    margin-top: 14px;
+    float: left;
+    font-size:20px;
+}
+
+main h1 {
+    margin: 20px 0 20px 10px;
+}
+
+button {
+    width: 100px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+    button img {
+        width: 10px;
+        height: 10px;
+        margin: 0;
+        padding: 2px 0 0 0;
+        float: left;
+    }
+
+#left-button-p {
+    padding: 0 0 0 15px;
+}
+
+#right-button-p {
+    padding: 0 0 0 30px;
+}
+
+#img-right {
+    padding-left: 28px;
+}
+
+hr {
+    width: 880px;
+}
+
+.head, aside p {
+    background-color: #5c5b5b;
+    color: white;
+    margin: 20px 10px 20px 10px;
+    padding-left: 5px;
+}
+
+article p {
+    margin: 20px 10px 20px 10px;
+}
+
+article a {
+    margin: 20px 10px 20px 10px;
+    color: red;
+    text-decoration: underline;
+}
+
+#bold {
+    width: 740px;
+    margin-left: 148px;
+    font-weight:bold;
+}
+
+strong {
+    margin-left: 20px;
+}
+
+#a-left {
+    margin-left: 148px;
+}
+
+aside div {
+    width:195px;
+    margin:5px 0 0 5px;
+    background-color: #ffffff;
+    border: 1px solid #5c5b5b;
+}
+
+aside p {
+    height:17px;
+    padding:0;
+    margin:0;
+    text-align:center;
+}
+
+aside p, aside a, aside input,aside button {
+    display:block;
+}
+
+aside input {
+    width:147px;
+    margin:5px 5px 5px 10px;
+    float:left;
+}
+
+aside button {
+    width:20px;
+    height:20px;
+    margin:5px;
+}
+
+aside a {
+    width:200px;
+    height:20px;
+    text-align:center;
+    color:red;
+    text-decoration:underline;
+}
+
+#non {
+    width:100px;
+    background:none;
+    border:1px solid white;
+}
+
+.special-a {
+    width:170px !important;
+    text-align:center;
+}
+
+#button-styles {
+    width: 100px;
+    height: 40px;
+    margin-left:50px;
+    background: rgba(41,184,229,1);
+    background: -moz-linear-gradient(left, rgba(41,184,229,1) 0, rgba(179,220,237,1) 11%, rgba(188,224,238,1) 89%, rgba(41,184,229,1) 99%, rgba(41,184,229,1) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0, rgba(41,184,229,1)), color-stop(11%, rgba(179,220,237,1)), color-stop(89%, rgba(188,224,238,1)), color-stop(99%, rgba(41,184,229,1)), color-stop(100%, rgba(41,184,229,1)));
+    background: -webkit-linear-gradient(left, rgba(41,184,229,1) 0, rgba(179,220,237,1) 11%, rgba(188,224,238,1) 89%, rgba(41,184,229,1) 99%, rgba(41,184,229,1) 100%);
+    background: -o-linear-gradient(left, rgba(41,184,229,1) 0, rgba(179,220,237,1) 11%, rgba(188,224,238,1) 89%, rgba(41,184,229,1) 99%, rgba(41,184,229,1) 100%);
+    background: -ms-linear-gradient(left, rgba(41,184,229,1) 0, rgba(179,220,237,1) 11%, rgba(188,224,238,1) 89%, rgba(41,184,229,1) 99%, rgba(41,184,229,1) 100%);
+    background: linear-gradient(to right, rgba(41,184,229,1) 0, rgba(179,220,237,1) 11%, rgba(188,224,238,1) 89%, rgba(41,184,229,1) 99%, rgba(41,184,229,1) 100%);
+    color:rgb(21, 103, 191);
+}
+
+.second {
+    height:90px;
+    text-align:center;
+}
+
+#third {
+    height:55px;
+}
