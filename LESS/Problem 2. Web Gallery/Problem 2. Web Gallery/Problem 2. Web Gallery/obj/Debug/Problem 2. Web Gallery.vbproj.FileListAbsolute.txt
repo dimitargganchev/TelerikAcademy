@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\bin\Problem_2.Web_Gallery.dll.config
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\bin\Problem_2.Web_Gallery.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\bin\Problem_2.Web_Gallery.pdb
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\bin\Problem_2.Web_Gallery.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\obj\Debug\Problem_2.Web_Gallery.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\obj\Debug\Problem 2. Web Gallery.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\obj\Debug\Problem_2.Web_Gallery.dll
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\obj\Debug\Problem_2.Web_Gallery.xml
+C:\Users\Dimitar\Desktop\Projects\CSS\LESS\Problem 2. Web Gallery\Problem 2. Web Gallery\Problem 2. Web Gallery\obj\Debug\Problem_2.Web_Gallery.pdb
