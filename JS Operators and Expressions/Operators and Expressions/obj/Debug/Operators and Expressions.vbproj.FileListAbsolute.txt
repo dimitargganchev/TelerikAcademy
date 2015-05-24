@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.dll.config
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.dll
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.pdb
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\bin\Operators and Expressions.xml
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators_and_Expressions.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.dll
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.xml
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Operators and Expressions\Operators and Expressions\obj\Debug\Operators and Expressions.pdb

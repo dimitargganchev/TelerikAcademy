@@ -1,0 +1,9 @@
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\bin\JavaScript literals.dll.config
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\bin\JavaScript literals.dll
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\bin\JavaScript literals.pdb
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\bin\JavaScript literals.xml
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\obj\Debug\JavaScript_literals.Resources.resources
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\obj\Debug\JavaScript literals.vbproj.GenerateResource.Cache
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\obj\Debug\JavaScript literals.dll
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\obj\Debug\JavaScript literals.xml
+C:\Users\Dimitar\Desktop\Projects\JavaScript\Data types and Variables\Problem 1. JavaScript literals\JavaScript literals\JavaScript literals\obj\Debug\JavaScript literals.pdb
